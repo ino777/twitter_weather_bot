@@ -1,0 +1,11 @@
+The weather forecast within 12 hours is as follows:
+
+$city
+
+$hour0 : $weather0
+
+$hour1 : $weather1
+
+$hour2 : $weather2
+
+$hour3 : $weather3
